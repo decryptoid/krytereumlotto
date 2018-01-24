@@ -1,0 +1,2 @@
+# krytereumlotto
+Krytereum Lottery contracts
